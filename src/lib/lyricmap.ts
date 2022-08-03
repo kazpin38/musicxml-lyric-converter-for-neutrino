@@ -100,4 +100,5 @@ export const defaultLyricMap: LyricMap = {
   woh: 'うぉー',
   wan: 'わん',
   n: 'ん',
+  -: 'ー',
 };
